@@ -1,0 +1,8 @@
+
+-declaration
+tab:type tableau[1..5]:entier
+salut(entier):saut
+test(tab)
+-code
+si a=b alors
+pour i de a a 1 faire
